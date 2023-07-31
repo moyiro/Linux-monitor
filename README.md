@@ -9,6 +9,7 @@
 4. 内存使用率和网络流量的监控。
 
 **本项目架构图如下：**
+<br />
 ![image](https://github.com/moyiro/Linux-monitor/blob/master/IMG/Architecture.jpg)
 
 ## 安装
