@@ -46,4 +46,5 @@
    cd /work/cmake/display_monitor
    ./display
 ## 效果
+<br />
 ![image](https://github.com/moyiro/Linux-monitor/blob/master/IMG/CPU%20monitor.png)
