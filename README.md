@@ -10,7 +10,7 @@
 <br />
 **本项目架构图如下：**
 <br />
-![image]()
+![image](https://github.com/moyiro/Linux-monitor/blob/master/IMG/Architecture.jpg)
 
 ## 安装
 ### Linux环境（ubuntu） <br />
