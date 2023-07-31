@@ -14,22 +14,22 @@
 
 ## 安装
 ### Linux环境（ubuntu） <br />
-需要~3GB磁盘空间
-* 安装docker
+需要>3GB磁盘空间
+1. 安装docker
     ```shell
     sudo apt install docker
-* 下载QT安装包，解压并移入`docker/build/qt/`目录下
-* 构建docker镜像
+2. 下载QT安装包，解压并移入`docker/build/qt/`目录下
+3. 构建docker镜像
     ```shell
     cd docker/build
     docker build --network host -f base.dockerfile .
-* 进入docker容器
+4. 进入docker容器
      ```shell
      # 启动容器
      ./monitor_docker_run.sh
      # 进入容器
      ./monitor_docker_into.sh
- * 编译代码
+5. 编译代码
       ```shell
       cd /work/cmake
       cmake ..
