@@ -1,12 +1,14 @@
 # Linux-monitor
 ## 项目介绍
-本项目旨在开发一个实时监控Linux服务器性能的分布式应用。将该应用部署在本地客户端和多台远程Linux服务器上，以实现对服务器性能的实时监控和图形化界面展示。<br />
+本项目旨在开发一个实时监控Linux服务器性能的分布式应用。将该应用部署在本地客户端和多台远程Linux服务器上，以实现对服务器性能的实时监控和图形化界面展示。
+<br />
 **目前已实现的监控模块有：**
 1. CPU使用率
 2. 负载
 3. 软中断
 4. 内存使用率和网络流量的监控。
-本项目结构图如下：
+<br />
+**本项目架构图如下：**
 ![image]()
 
 ## 安装
@@ -44,4 +46,4 @@
    cd /work/cmake/display_monitor
    ./display
 ## 效果
-![]()
+![image](https://github.com/moyiro/Linux-monitor/blob/master/IMG/CPU%20monitor.png)
