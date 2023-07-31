@@ -48,5 +48,7 @@
 ## 效果
 <br />
 ![image](https://github.com/moyiro/Linux-monitor/blob/master/IMG/CPU%20monitor.png)
+<br />
 ![image](https://github.com/moyiro/Linux-monitor/blob/master/IMG/mem%20monitor.png)
+<br />
 ![image](https://github.com/moyiro/Linux-monitor/blob/master/IMG/net%20monitor.png)
